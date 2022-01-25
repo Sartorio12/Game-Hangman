@@ -11,10 +11,10 @@ ganha !
 
 Como diria algum filósofo por aí, a nossa equipe é composta por quatro membros da Resilia, ficamos responsáveis por esse projeto e ficamos felizes com o que foi proposto, durante o processo, aprendemos várias coisas novas, mas principalmente, aprendemos que o trabalho em equipe pode render resultados espetaculares. Nosso objetivo era construir um jogo da forca multiplayer, todo instrumentado em Python e que seja de fácil acesso. Nossa equipe é composta pelos seguintes membros:
 
-# Gabriel Lima - https://github.com/Gabriellimar
-# Mateus Sartorio - https://github.com/Sartorio12
-# Vinícius Costa - https://github.com/ViniciusCostaSouto
-# Gabriela Antunes - https://github.com/gabigarrafinha
+- [Gabriel Lima](https://github.com/Gabriellimar)
+- [Mateus Sartorio](https://github.com/Sartorio12)
+- [Vinícius Costa](https://github.com/ViniciusCostaSouto)
+- [Gabriela Antunes]( https://github.com/gabigarrafinha)
 
 # Como posso jogar ?
 
